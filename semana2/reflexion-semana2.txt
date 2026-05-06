@@ -1,0 +1,11 @@
+dominar la terminal, es en escencia aprender hablar el lenguaje directo de 
+la maquina sin intermedarios. Para un desarrollador, no es solo una cuestion 
+de estetica tecnica, sino de alcanzar una autonomia que la interfaz grafica 
+limita por diseño. 
+Al navegar y organizar archivos mediantes comandos, dejas de ser un espectador 
+de carpetas para convertirte en un arquitecto de flujos de trabajo, capaz de 
+autonomizar lo mundano y resolver los complejo en segundos. 
+Esta habilidad es el puente hacia la administracion de servidores y el uso 
+fluido dde herramientas como git. En la ultima instancia, la terminal te 
+ortoga el control total sobre su entorno, transformando la friccion de la gestion 
+de archivos en la agilidad necesiaria para centrarte en lo que realmente importa.  

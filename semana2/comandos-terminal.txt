@@ -1,0 +1,7 @@
+estoy utilizando 
+mkdir semana2 
+cd semana2 
+touch preguntas-semana2.txt
+touch comandos-terminal.txt 
+touch pregunta-semana2.txt 
+code pregunta-semana2.txt
