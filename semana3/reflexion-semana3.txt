@@ -1,0 +1,13 @@
+Reflexion: 
+El uso de herramientas como git es clave porque permite trabajar con 
+una red de seguridad constante. En el desarrollo de software, es muy 
+comun cometer errores o que una nueva funcionalidad rompa algo que ya 
+funcionaba, tener un registro de cambios detallados permite volver una 
+version estable en segundos sin perder el progreso. Ademas, facilita 
+enormemente el trabajo en equipo, ya que evita que varios programadores 
+sobrescriban el codigo de otros, permitiendo fusionar cambios de manera 
+organizada. Git no solo sirve para guardar archivos, sino para documentar 
+la evolucion de la logica del proyecto. Sin un sistema de control de versiones, 
+el riesgo de perder informacion o de generar caos en el codigo seria altisimo. 
+En resumen, es la base para mantener el orden, la colaboracion y la integridad de 
+cualquier software profesional. 

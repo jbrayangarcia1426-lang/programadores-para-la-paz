@@ -1,0 +1,16 @@
+repositorio: Es basicamente el lugar o la carpeta digital donde se guarda 
+todo nuestro proyecto. No solo contiene los archivos actuales, sino que 
+tambien almacena todo el historial de cambios que hemos hecho desde el 
+inicio, permitiendonos trabajar de forma organizada y sin miedo de perder 
+a versiones anteriores. 
+
+commit: Podemos verlo como una foto o un punto de guardado en el tiempo 
+de nuestro trabajo. 
+Cuando hacemos un commit, estamos confirmando que los cambios que realizamos 
+hasta ese momento son importantes y queremos registrarlos oficialmente en el 
+historial con un mensaje que explique que fue lo que hicimos. 
+
+push: En la accion de subir o enviar todos los cambios que hemos guardado 
+localmente nuestros commit hacia un servidor remoto, como github. Es el paso 
+final para que nuestro trabajo este respaldado en la nube y para que otro 
+miebros del equipo puedan ver y descargar lo que hemos avanzado. 
