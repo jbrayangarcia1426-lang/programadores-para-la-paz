@@ -1,0 +1,10 @@
+Reflexion: 
+El uso responsable de la información en internet y el manejo de herramientas como git 
+tiene mucho que ver con la honestidad y el respeto hace al trabajo de los demas. En la 
+red ser responasable significa no compartir cosas falsas y entender que lo que hacemos 
+afceta a otros ciudadanos. Por otro lado, usar git me permite ser mas orgnizado y transparente 
+con mi codigo, porque deja un registro claro de mis aportes y errores. 
+Esto es clave para partcipacin ciudadana hoy en dia, ya que la tecnologia debe construirse con etica 
+y orden para que realmente ayude a la comunidad. 
+Al final, se trata de ser un buen ciudadano que sabe colaborar en equipo, cuidando siempre la calidad 
+de la información y la seguridad de los proyectos que realizamos para el futuro.

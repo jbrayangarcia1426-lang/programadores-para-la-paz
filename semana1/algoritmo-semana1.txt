@@ -1,0 +1,8 @@
+Practica de algoritmo: 
+
+1. Buscar información.  
+2. Revisar la fuente. 
+3. Confirmar la noticia. 
+4. Analizar el contenido y la fecha. 
+5. Evaluar la intencion del mensaje. 
+6. Decidir y compartir con responsabilidad. 
