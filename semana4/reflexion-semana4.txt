@@ -1,0 +1,12 @@
+Reflexion: 
+creo que es super importante que las comunidades puedan crar sus propias herramientas 
+tecnologicas porque nadie conoce mejor sus necesidades que ellos mismos. 
+Cuando usamos tecnologias abiertas como node.js, no dependemos de que una gran empresa 
+decida ayudarnos o nos cobre un monton de ayudarnos o nos cobre un monton de dinero por 
+una aplicación. 
+Esto nos da muchisima libertad y autonomia, ya que cualquier grupo de personas con ganas 
+de aprender puede programar una solucion que realmente sirva para su barrio o su ciudad. 
+Ademas, al ser herramientas libres, la comunidad puede ir mejorando el codigo entre todos, 
+compartiendo le conocimiento sin secretos. Al final del dia, esto nos ayuda a no ser solo 
+consumidores de lo que hacen en otros paises, si no creadores de nuestro propio futuro 
+tecnologico. 

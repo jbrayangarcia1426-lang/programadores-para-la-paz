@@ -1,0 +1,15 @@
+pregunta 1 
+¿Qué es Node.js?
+Respuesta:La respuesta es la B.Un entorno que permite ejecutar JavaScript en el servidor
+
+pregunta 2 
+¿Qué hace el comando npm init?
+Respuesta:La respuesta es la B.Inicializa un proyecto Node.js creando el archivo package.json
+
+pregunta 3 
+¿Qué es Express en Node.js?
+Respuesta:La respuesta es la B.Un framework para construir servidores y APIs en Node.js
+
+pregunta 4 
+¿Qué hace una ruta en una aplicación web?
+Respuesta:La respuesta es la B.Define cómo responde el servidor cuando un usuario accede a una URL
