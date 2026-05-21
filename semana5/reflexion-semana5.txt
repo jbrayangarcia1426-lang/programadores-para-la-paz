@@ -1,0 +1,11 @@
+Reflexion semana5: 
+
+Para mi, las APIs son una salvacion a la hora de organizar a una comunidad por que ayudan 
+a que la informacion no se vuelva un ocho. En vez de que la gente mande reportes, quejas o 
+alertas por todos lados y las cosas se terminen perdiendo en un grupo de whatsapp, una API 
+hace que todo llegue ordenado a un solo sitio. Por ejemplo si un vecino reporta un bache o una 
+farola dañada, esos datos van directo a donde tienen que ir sin dar vueltas. 
+lo mejor es que todo pasa en tiempo real, asi que si alguien ya aviso de un problema, los demas 
+se enteran de una vez y no se repiten los reportes. Al final hace que la comunicacion sea rapida 
+y automatica, evitando el caos y ayudando a que de verdad se solucionen las cosas en el barrio 
+sin tanta complicacion. 

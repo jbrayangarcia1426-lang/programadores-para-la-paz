@@ -1,0 +1,11 @@
+Explicacion: 
+Qué hace esta ruta:Esta ruta sirve para recibir informacion que alguien envia a la 
+aplicacion usndo el metodo post. 
+En este caso, la ruta reporte recibe un mensaje desde el cuerpo de la peticion y 
+luego responde json diciendo que el reporte fue recibido junto con el mensaje enviado. 
+
+Para qué podría servir en una aplicación comunitaria: En una aplicacion comunitaria podria 
+servir para que los vecinos envien reporte o avisos, como problemas de basura, alumbrado 
+dañado, fugas de agua o situacines de seguridad. Asi la aplicacion puede guardar y arganizar 
+los reportes para que las autoridades o administradores lo revisen. 
+

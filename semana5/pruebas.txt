@@ -1,0 +1,13 @@
+Pruebas.txt 
+http://localhost:3000
+
+sale, servidor activo. 
+
+http://localhost:3000/saludo
+
+sale, hola comunidad. 
+
+http://localhost:3000/mensaje/juan
+
+sale, hola juan. 
+
