@@ -1,0 +1,7 @@
+Explicacion: 
+Al hacer la prueba desde Thunder Client enviando los datos de Maria por POST, 
+el servidor respondio super bien con un estado "200 OK" 
+La respuesta exacta que nos devolvio en pantalla fue: 
+"Datos recibidos. Nombre: Maria, mensaje: Hola comunidad" 
+Estos nos confirma que la ruta esta funcionando perfectamente, que el servidor si esta atrapando 
+los datos que le mandamos en el JSON y los esta procesando sin ningun problema.

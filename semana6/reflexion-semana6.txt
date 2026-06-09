@@ -1,0 +1,12 @@
+Reflexion: 
+Es clave que las plataformas reciaban los reportes de forma estructurada porque 
+el desorden en los datos solo generan retrasos. 
+cuando la informacion llega organizada, el sistema no tiene que adivinar que quiere 
+decir el ciudadano, sino que puede clasificar, priorizar y derivar el problema autoaticamente 
+al area encargada. 
+Esto hace que las respuestas sean muchisimo mas rapidas, evitando que los reporteros se pierdan 
+en un mar de textos infinitos y confusos. 
+Ademas, tener los datos limpios y ordenados permite ver panorama completo traves de estadisticas y mapas, 
+detectando cuales son las fallas mas graves o repetitivas en una comunidad. 
+Al final estucturar la informacion no es solo un capricho tecnico, sino la unica manera real de que la tecnologia sirva 
+para dar soluciones rapidas y eficientes. 
