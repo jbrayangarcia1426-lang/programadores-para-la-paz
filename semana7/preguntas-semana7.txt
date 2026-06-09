@@ -1,0 +1,20 @@
+Pregunta 1: 
+¿Qué es un array en programación?
+Respuesta:la respuesta es la B. Una estructura que permite almacenar varios datos en una lista. 
+
+Pregunta 2: 
+¿Qué método HTTP se utiliza normalmente para consultar datos existentes?
+Respuesta:la respuesta es la B. GET. 
+
+Pregunta 3: 
+¿Qué método HTTP se usa normalmente para agregar información nueva?
+Respuesta:la respuesta es la B. POST. 
+
+Pregunta 4: 
+¿Cuál es el propósito de una API en una aplicación? 
+Respuesta:la respuesta es la B. Permitir que diferentes sistemas o aplicaciones intercambien información. 
+
+
+
+
+

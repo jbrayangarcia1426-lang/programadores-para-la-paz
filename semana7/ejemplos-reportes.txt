@@ -1,0 +1,13 @@
+Ejemplo 1:
+
+{
+  "tipo": "fallas de semaforos",
+    "descripcion": "Luces de semaforo no cmabian"
+    }
+
+Ejemplo 2:
+{
+  "tipo": "invacion del espacio publico",
+  "descripcion": "Vehiculos mal parqueados"
+}
+
