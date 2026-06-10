@@ -1,0 +1,24 @@
+explicacion de que aparece en los comandos: 
+uname -a
+sale 
+MINGW64_NT-10.0-19045 DESKTOP-DQ9G8O7 3.6.7-fb42d713.x86_64 2026-03-29 11:44 UTC x86_64 Msys
+
+¿Por qué es útil conocer información del sistema cuando se administra un servidor? 
+Respuesta:Es clave porque administrar un servidor a ciegas es un peligro. Con un comando como 
+uname -a sabes exactamente en que terreno estas parad, que version del sistema tienes y que arquitetura 
+usa. Esto te evita meter la pata instalando programas que no son compatibles y, lo mas importante, te dice 
+si el sistema esta desactualizado o expuestos a fallas de seguridad. En resumen, es mejor saber que motor 
+tiene la maquina para no adivinar cuando toque solucionar un problema. 
+
+
+whoami 
+sale 
+jbray 
+
+¿Por qué es útil conocer información del sistema cuando se administra un servidor? 
+Respuesta:Es clave para no mandarse una embarrada gigante. Cuando estas administrando un servidor, 
+es normal estar saltando entre tu usuario normal y el del administrador. 
+tirar un whoami es solo para bajarse de la nube y asegurarse de quien es uno en ese segundo. 
+Asi no terminas borrando o moviendo algo delicado pensando que estabas en tu cuenta tranquila, cuando 
+en verdad tenias el poder de romper todo el sistema. 
+

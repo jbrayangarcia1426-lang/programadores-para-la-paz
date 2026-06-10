@@ -1,0 +1,3 @@
+1. Usar autenticacion de dos factores
+2. Hacer copias de seguridad
+3. Evitar hacer click en enlaces sospechosos
