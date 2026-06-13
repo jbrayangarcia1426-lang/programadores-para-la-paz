@@ -1,0 +1,18 @@
+Sistema operativo: 
+El sistema operativo se encarga de administrar los recursos de tu computador,
+haciendo posible para que las aplicaciones, como node.js, funcionen sin problemas. 
+
+Node.js: 
+Es el motor que te permite ejecutar codigo javascript fuera del navegador, haciendo 
+posible que tu maquina entienda e interprete tu servidor. 
+
+Aplicación server.js: 
+Es tu archivo principal, donde reside toda la logica del servidor. 
+
+Puerto: 
+Es el canal exclusivo por el cual el servidor recibe y envia informacion a traves de 
+la red. 
+
+Logs: 
+Son los registros de actividad de tu servidor en tiempo real, clave para vigilar como 
+va todo y detectar posibles errores. 
