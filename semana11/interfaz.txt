@@ -1,0 +1,12 @@
+Formulario para crear una causa:
+Tendría campos simples para poner el título de la causa, una descripción detallada y la fecha.
+
+Vista de causas disponibles:
+Una sección limpia en forma de lista o tarjetas donde se puedan leer todas las causas activas.
+
+Botón para apoyar una causa:
+Cada causa tendrá su propio botón interactivo para que los usuarios dejen su voto o apoyo con un clic.
+
+Contador de apoyos:
+Un indicador visual al lado del botón que muestre en tiempo real cuántas personas han apoyado la causa. 
+

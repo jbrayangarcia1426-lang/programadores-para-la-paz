@@ -1,0 +1,11 @@
+Reflexion: 
+Una plataforma de participación ciudadana necesita una base de datos sólida para poder
+almacenar de forma organizada todas las propuestas, votos y comentarios de la comunidad. Sin
+este componente, sería imposible hacer un seguimiento real o guardar el progreso de las causas.
+Por otro lado, la autenticación de usuarios es totalmente indispensable para validar que las
+personas que participan sean reales, evitando perfiles falsos que alteren las votaciones.
+Además, proteger la información sensible es una obligación ética en este tipo de proyectos.
+Si los datos personales o las contraseñas se filtran, la comunidad perdería toda la confianza
+en la plataforma y dejaría de usarla por miedo a ver expuesta su privacidad. En conclusión,
+estos tres pilares garantizan que el sistema sea transparente, seguro, confiable y escalable. 
+
