@@ -1,0 +1,8 @@
+ ¿Qué evento activa el flujo?
+Evento: Nuevo reporte registrado por un ciudadano en el sistema.
+
+ ¿Qué mensaje se enviaría a Telegram?
+Mensaje: Alerta Se ha recibido un nuevo reporte comunitario en el sistema. Por favor, revisar el panel de control. 
+
+ ¿Qué información no debería enviarse por seguridad?
+Información que no debe enviarse: Nombres completos, documentos de identidad, direcciones exactas, números de teléfono, contraseñas o cualquier dato sensible de los usuarios. 
