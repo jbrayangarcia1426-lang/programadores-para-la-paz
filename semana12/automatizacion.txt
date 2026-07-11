@@ -1,0 +1,11 @@
+DESCRIPCIÓN DE LA AUTOMATIZACIÓN (n8n + Telegram) 
+
+1. Evento que activa la automatización: 
+La automatización se dispara en n8n de forma automática cada vez que un ciudadano termina de rellenar el formulario web y registra con éxito una nueva causa o petición en la base de datos de la plataforma.
+
+2. Mensaje que se envía:
+Se envía una alerta al canal comunitario de Telegram que dice: 
+Nueva causa creada en la plataforma! Ya puedes entrar a revisarla y dejar tu apoyo si te interesa de verdad.  
+
+3. Información que NO se debe enviar por seguridad: 
+Por temas de privacidad y protección de datos, queda totalmente prohibido incluir en el mensaje de Telegram información sensible o de carácter personal como: números de cédula/documentos de identidad, teléfonos de contacto, direcciones físicas de los usuarios o comentarios demasiado específicos que vulneren la privacidad de la comunidad.     

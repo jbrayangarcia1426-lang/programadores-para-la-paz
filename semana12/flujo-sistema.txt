@@ -1,0 +1,16 @@
+FLUJO DE TRABAJO DEL SISTEMA: PETICIÓN EN 3 CLICS 
+
+1. Registro de la Causa:
+   Un ciudadano entra a la plataforma y crea una nueva causa o petición comunitaria llenando los datos esenciales.
+
+2. Almacenamiento en Base de Datos:
+   El sistema recibe la información de la causa y la guarda de forma segura en la base de datos para que quede pública.
+
+3. Recopilación de Apoyos:
+   Otros miembros de la comunidad entran a la web, revisan la causa y pueden registrar su apoyo digital con un par de clics.
+
+4. Conteo y Automatización:
+   El sistema (usando n8n) va sumando los apoyos en tiempo real y dispara notificaciones automáticas por Telegram cuando se alcanzan ciertas metas.
+
+5. Generación del Documento Formal:
+   Una vez que se cierra el proceso o se cumplen los apoyos requeridos, el sistema genera automáticamente un documento PDF formal listo para ser descargado o presentado ante las entidades correspondientes. 

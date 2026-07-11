@@ -1,0 +1,19 @@
+MODELO DE DATOS BÁSICO 
+
+Entidades principales del sistema:
+
+Entidad: Causa
+Esta entidad sirve para registrar y almacenar toda la información de las iniciativas o peticiones que crean los ciudadanos en la plataforma. 
+Campos:
+id: Identificador único de la causa.
+titulo: El nombre o cabecera de la petición.
+descripcion: El detalle o la problemática de la causa.
+fecha: Cuándo se creó.
+
+Entidad: Apoyo
+Sirve para llevar el control y registro de los ciudadanos que deciden respaldar una causa específica, vinculando cada firma o voto con su respectiva petición.
+Campos:
+id: Identificador único del registro de apoyo.
+causa_id: La relación directa con la causa que se está apoyando.
+nombre: Quién da el apoyo.
+fecha: Cuándo se registró el voto o firma.  

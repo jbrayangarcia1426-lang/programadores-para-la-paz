@@ -1,0 +1,10 @@
+Reflexion: 
+Durante este curso aprendí que la tecnología es clave para
+conectar a la comunidad y hacer más ágiles los procesos.
+Me di cuenta de que no se trata solo de tirar código, sino
+de diseñar sistemas simples que ayuden a la gente a unirse.
+Entendí el valor de integrar n8n y Telegram para automatizar
+alertas en tiempo real y no hacer todo el trabajo a mano.
+Además, me quedó claro que cuidar la privacidad es vital;
+minimizar los datos genera confianza y protege a los usuarios.
+Al final, veo que estas herramientas facilitan el impacto real.  
